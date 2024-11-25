@@ -73,8 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset
-
 Windows/*
 
 Windows.zip
